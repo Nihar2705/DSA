@@ -34,3 +34,14 @@ for i in range (len(x)):
             new = [x[i]]
 
 print ("count is ", count)
+
+
+# add student
+# show student
+# update student
+# delete student
+# exit
+
+# add
+# id, roll no, name, city
+
